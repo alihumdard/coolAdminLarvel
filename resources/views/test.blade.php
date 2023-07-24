@@ -4,6 +4,6 @@
 @section('content')
     <!-- MAIN CONTENT-->
 			<div class="main-content">
-				<h1>This is test page</h1>
+				<h1 class="mt-5 bg-white text-center">This is test page</h1>
 			</div>
 @endsection
